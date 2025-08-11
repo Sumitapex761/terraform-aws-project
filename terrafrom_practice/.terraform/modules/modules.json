@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"name","Source":"./aws_modules","Dir":"aws_modules"},{"Key":"prd-app","Source":"./aws_modules","Dir":"aws_modules"},{"Key":"stg-app","Source":"./aws_modules","Dir":"aws_modules"}]}
